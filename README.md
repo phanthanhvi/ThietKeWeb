@@ -5,18 +5,23 @@
 <h4>THÀNH VIÊN THỰC HIỆN: Phan Thanh Vĩ (K18) - Phạm Trương Hoài Thanh (K18)</h4>
 <h4>THỜI GIAN THỰC HIỆN: 6/2019 </h4>
   
-<table>
-  <tr>Tiến độ dự án</tr>
-  <tr>
-    <th>
-      <td>1</td>
-       <td>2</td>
-      <td>3</td>
-    <th>
-      <th>
-      <td>1</td>
-       <td>2</td>
-      <td>3</td>
-    <th>
-   </tr>
-  </table>
+ <table border="1">
+        <tr>
+            <th colspan="3">THÔNG TIN SINH VIÊN</th>
+        </tr>
+        <tr>
+            <td>Trần Anh Đức</td>
+            <td>03/08/1993</td>
+            <td>Nam</td>
+        </tr>
+        <tr>
+            <td>Kiều Thị Thu Hằng</td>
+            <td>04/09/1991</td>
+            <td>Nữ</td>
+        </tr>
+        <tr>
+            <td>Vương Thị Lê Na</td>
+            <td>06/10/1991</td>
+            <td>Nữ</td>
+        </tr>
+    </table>
