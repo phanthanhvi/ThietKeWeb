@@ -4,3 +4,12 @@
 <h4>GIẢNG VIÊN HƯỚNG DẪN: ThS. Dương Hữu Thành<h4>
 <h4>THÀNH VIÊN THỰC HIỆN: Phan Thanh Vĩ (K18) - Phạm Trương Hoài Thanh (K18)</h4>
 <h4>THỜI GIAN THỰC HIỆN: 6/2019 </h4>
+  
+<table>
+  <tr>Tiến độ dự án</tr>
+  <tr>
+    <th>1</th> 
+     <th>2</th> 
+     <th>3</th> 
+   <tr>
+  </table>
