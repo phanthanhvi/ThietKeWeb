@@ -8,8 +8,8 @@
 <table>
   <tr>Tiến độ dự án</tr>
   <tr>
-    <th>1</th> 
-     <th>2</th> 
-     <th>3</th> 
+    <td>1</td>
+     <td>2</td>
+    <td>3</td>
    </tr>
   </table>
